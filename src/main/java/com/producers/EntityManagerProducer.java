@@ -1,4 +1,4 @@
-package com.equinios.producers;
+package com.producers;
 
 import java.io.Serializable;
 
